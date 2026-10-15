@@ -1,4 +1,4 @@
-# ai_for_modecine
+# ai_for_medicine
 
 Notebooks Colab et données des cours de médecine publiés sur [ML-Arena](https://ml-arena.com).
 
